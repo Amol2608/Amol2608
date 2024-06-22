@@ -1,6 +1,6 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/5fe68627f6fc307bb51a1764/1609663973815-R6ZQTWOC02QZI3IAYBIO/Hello+Dev+World+Facebook+cover+(1).png?format=2500w)](https://amol2608.io)
 <h1 align="center">Hi 👋, I'm Amol Nipane</h1>
-<h3 align="center">A passionate Web developer from India and also eager to learn new things always . I love to work, it makes me extremely happy and it should be extremely challenging because challenges make you reach the next level. I code in C, C++, Python, SQL, MERN. And always up for exploring new tech. I am good at problem-solving and Brainstorming over ideas and converting them into products. So if you have are looking for someone who can build something from scratch or work on something that needs to grow and improve I am sure I am the one you are looking for, and I am looking forward to connecting with you.</h3>
+<h3 align="center">A passionate Web developer from India and also eager to learn new things always . I love to work, it makes me extremely happy and it should be extremely challenging because challenges make you reach the next level.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
 
