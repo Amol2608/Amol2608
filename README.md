@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/5fe68627f6fc307bb51a1764/1609663973815-R6ZQTWOC02QZI3IAYBIO/Hello+Dev+World+Facebook+cover+(1).png?format=2500w)](https://amol2608.io)
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/5fe68627f6fc307bb51a1764/1609663973815-R6ZQTWOC02QZI3IAYBIO/Hello+Dev+World+Facebook+cover+(1).png?format=2500w)](https://github.com/Amol2608)
 <h1 align="center">Hi 👋, I'm Amol Nipane</h1>
 <h3 align="center">A passionate Web developer from India and also eager to learn new things always . I love to work, it makes me extremely happy and it should be extremely challenging because challenges make you reach the next level.</h3>
 
