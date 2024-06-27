@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amol2608" alt="amol2608" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://amolportfolio-7098e.web.app/](https://amolportfolio-7098e.web.app/)
+- 👨‍💻 All of my projects are available at [https://amol-26.web.app/](https://amol-26.web.app/)
 
 - 💬 Ask me about **React.js**
 
